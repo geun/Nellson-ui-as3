@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:14bbef0edc6e902357459c135728c6bc:9ddf3ebdce3b4891888cdf46688429df:627cb86af05ff0a7de5e260bd559fac5$ -->
+<TextureAtlas imagePath="scale9_samples.png">
+    <SubTexture name="scale9_sample_blue" x="124" y="2" width="120" height="120"/>
+    <SubTexture name="scale9_sample_green" x="2" y="124" width="120" height="120"/>
+    <SubTexture name="scale9_sample_red" x="2" y="2" width="120" height="120"/>
+</TextureAtlas>
